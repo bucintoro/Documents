@@ -1,4 +1,4 @@
 # Documents
 Documents and white papers
 
-This repository is simply a collection of documents and white papers I have found online overtime and which I like to keep in central repository.
+This repository is simply a collection of documents and white papers that I have found online over time and which I want to keep in central repository.
